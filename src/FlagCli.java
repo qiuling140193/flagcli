@@ -64,7 +64,9 @@ public class FlagCli {
 
     
     private static void printNrFlag() {
-        
+        System.out.println(ANSI_BG_RED +   "                ");
+        System.out.println(ANSI_BG_WHITE +   "                ");        
+        System.out.println(ANSI_BG_BLUE + "                ");
         
                 
         
