@@ -51,7 +51,7 @@ public class FlagCli {
     
     
     private static void printItFlag() {        
-        
+        System.out.println("printNRFlag");
         
         
         
